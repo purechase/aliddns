@@ -1,8 +1,8 @@
 #!/bin/bash
 
 aliddns_interval=600
-aliddns_ak=LTAI5tDWpWQN7nGyfEB4tdut
-aliddns_sk=m0ChhIHjvLAmPIpu2CaW9WWpeyc7K9
+aliddns_ak=
+aliddns_sk=
 aliddns_domain=""
 aliddns_name=""
 aliddns_domain2=""
